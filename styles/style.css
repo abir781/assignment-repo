@@ -1,0 +1,11 @@
+#hero{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #C6E4D6;
+}
