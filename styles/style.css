@@ -146,4 +146,59 @@
 
 .news-info{
     margin-left: 32px;
+    
 }
+.taka-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+.one{
+    background-color: white;
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+.two{
+    background-color: white;
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+.three{
+    background-color: white;
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+.four{
+    
+        background-color: white;
+        padding: 40px;
+        margin-right: 24px;
+        border-radius: 16px;
+    
+    
+}
+
+.donate-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.donate-subtitle{
+    text-align: center;
+    font-size: 16px;
+    color: #676767;
+}
+.donate{
+    margin-top: 70px;
+}
+
+.measure{
+    width: 1032px;
+    height: 64px;
+   
+
+}
+
