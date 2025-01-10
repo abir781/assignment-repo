@@ -160,7 +160,7 @@
     border-radius: 16px;
 }
 .two{
-    background-color: white;
+    background-color: #C6E4D6;
     padding: 40px;
     margin-right: 24px;
     border-radius: 16px;
@@ -198,7 +198,23 @@
 .measure{
     width: 1032px;
     height: 64px;
+    border: none;
+    text-align: center;
    
 
+}
+.wraper{
+    display: flex;
+    justify-content: center;
+   
+}
+.btn-donate{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    padding: 17px 34px;
+    border-radius: 8px;
+    display: block;
+    margin: 32px auto;
 }
 
