@@ -218,3 +218,38 @@
     margin: 32px auto;
 }
 
+.subscribe{
+    background-color: #C6E4D6;
+    padding: 80px 265px;
+    border-radius: 24px;
+}
+.subscribe-title{
+    text-align: center;
+}
+.subscribe-subtitle{
+    text-align: center;
+}
+.subscribe-min{
+    text-align: center;
+}
+
+.measures{
+    width: 600px;
+    height: 55px;
+    border: none;
+    border-radius: 10px 0 0 10px;
+}
+.btn-sub{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    padding: 17px 34px;
+    border-radius: 0px 10px 10px 0px;
+
+}
+.combine{
+    display: flex;
+    gap: 0px;
+    
+}
+
