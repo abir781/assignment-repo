@@ -1,11 +1,100 @@
 #hero{
     width: 1280px;
     margin: 0 auto;
+    
 }
+.bg{
+    background-color: #F5F5F5;
+}
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    
+    font-style: normal;
+  }
 
 .banner{
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #C6E4D6;
+    border-radius: 10px;
+    padding: 50px;
+}
+.banner-country{
+    font-size: 24px;
+    color: #0E0E0E;
+    opacity: 50%;
+}
+.banner-description{
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.btn{
+    padding: 17px 34px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+}
+.cards{
+    display: flex;
+   
+   
+}
+.card-1{
+    background-color: #D5E1F5;
+    padding: 32px;
+    border-radius: 16px;
+    
+    margin-right: 20px;
+    
+}
+.card-2{
+    background-color: #C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+
+    margin-right: 20px;
+    
+}
+.card-3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+    
+}
+.vision-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.vision-subtitle{
+    font-size: 16px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-subtitle{
+    font-size: 16px;
+}
+
+.btn-2{
+    padding: 11px 20px;
+    background-color: #5490F5;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn-3{
+    padding: 11px 20px;
+    background-color: #09A15C;
+    border: none;
+    border-radius: 8px;
+}
+.btn-4{
+    padding: 11px 20px;
+    background-color: #FFC239;
+    border: none;
+    border-radius: 8px;
 }
