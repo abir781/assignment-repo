@@ -82,9 +82,11 @@
 .card-title{
     font-size: 20px;
     font-weight: bold;
+    
 }
 .card-subtitle{
     font-size: 16px;
+    color: #676767;
 }
 
 .btn-2{
@@ -306,9 +308,11 @@
 }
 .subscribe-subtitle{
     text-align: center;
+    color: #676767;
 }
 .subscribe-min{
     text-align: center;
+    color: #676767;
 }
 
 .measures{
@@ -353,6 +357,8 @@
 
 .quote-subtitle{
     font-size: 16px;
+    color: #676767;;
+    
 }
 
 .quote-title{
